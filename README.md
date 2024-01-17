@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Jeffrey Merselis, I am a junior at St. Lawrence University (class 2025), from Williamstown MA.
+I am a Data Science major and Art minor. 
+
 <!--
 **JeffreyMerselis/JeffreyMerselis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
